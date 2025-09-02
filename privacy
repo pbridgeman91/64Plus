@@ -1,0 +1,28 @@
+1. Introduction
+n64Plus (“the App”) is a Nintendo 64 emulator for iOS and macOS. We respect your privacy and are committed to protecting it. This Privacy Policy explains how we handle user data.
+2. Information We Collect
+The App itself does not collect or store any personally identifiable information.
+However, the following types of data may be processed during use:
+Game Data: Local save states, configuration settings, and controller preferences are stored only on your device.
+Network Play (Optional): If you use online or local multiplayer features, the App transmits temporary session data (player name, IP address, and connection info) between players. This is required for gameplay synchronization but is not stored permanently.
+Crash Reports (if enabled through iOS): Apple may provide anonymized crash logs to help improve stability.
+3. How We Use Data
+To enable emulator functionality such as save/load states and controller settings.
+To provide optional multiplayer features over the internet or local Wi-Fi/hotspot.
+To improve stability and performance of the App.
+We do not use your data for marketing or advertising purposes.
+4. Data Sharing
+We do not sell, rent, or trade your information.
+Multiplayer sessions exchange data only between participating devices.
+If crash logs are shared, they are handled by Apple’s systems in accordance with Apple’s privacy policies.
+5. Your Choices
+You may choose not to use multiplayer features; the emulator functions fully offline.
+You can disable crash reporting in iOS settings.
+You may delete the App at any time to remove all stored game data and settings from your device.
+6. Security
+We use reasonable measures to protect the limited data that may be transmitted during multiplayer sessions. However, as with any network activity, absolute security cannot be guaranteed.
+7. Children’s Privacy
+The App does not knowingly collect personal information from children under 13. Multiplayer features are peer-to-peer and require user action to connect.
+8. Changes
+We may update this Privacy Policy from time to time. Any changes will be posted with a new effective date.
+
