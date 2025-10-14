@@ -1,5 +1,7 @@
 1. Introduction
-64Plus (“the App”) is a Nintendo 64 emulator for iOS. We respect your privacy and are committed to protecting it. This Privacy Policy explains how we handle user data.
+64Plus (“the App”) is a Nintendo 64 emulator for iOS, based on and ported from the open-source project Gopher64, which is based on Mupen64.
+You can find the source code of 64Plus in this repository.
+We respect your privacy and are committed to protecting it. This Privacy Policy explains how we handle user data.
 2. Information We Collect
 The App itself does not collect or store any personally identifiable information.
 However, the following types of data may be processed during use:
@@ -20,9 +22,10 @@ You may choose not to use multiplayer features; the emulator functions fully off
 You can disable crash reporting in iOS settings.
 You may delete the App at any time to remove all stored game data and settings from your device.
 6. Security
-We use reasonable measures to protect the limited data that may be transmitted during multiplayer sessions. However, as with any network activity, absolute security cannot be guaranteed.
+We use reasonable measures to protect the limited data that may be transmitted during multiplayer sessions.
+However, as with any network activity, absolute security cannot be guaranteed.
 7. Children’s Privacy
-The App does not knowingly collect personal information from children under 13. Multiplayer features are peer-to-peer and require user action to connect.
+The App does not knowingly collect personal information from children under 13.
+Multiplayer features are peer-to-peer and require user action to connect.
 8. Changes
 We may update this Privacy Policy from time to time. Any changes will be posted with a new effective date.
-
