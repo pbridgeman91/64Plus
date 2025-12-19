@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "pb.n64Plus",
+        "paths": [
+          "/coinbase-callback/*"
+        ]
+      }
+    ]
+  }
+}
